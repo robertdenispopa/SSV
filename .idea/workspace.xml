@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9b3ff73c-5182-4b16-860c-8f0168510869" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SSV/SSV/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SSV/SSV/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SSV/SSV/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SSV/SSV/service/UserService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +40,9 @@
       <recent name="D:\School\Faculta\CTI\AN4\SSV -JAVA\SSV\src\main\java\SSV\SSV\repository" />
       <recent name="D:\School\Faculta\CTI\AN4\SSV -JAVA\SSV\src\main\java\SSV\SSV\model" />
       <recent name="D:\School\Faculta\CTI\AN4\SSV -JAVA\SSV\src\main\java\SSV\SSV\controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\School\Faculta\CTI\AN4\SSV\ANALIZA" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.UserControllerIntegrationTests">
@@ -120,6 +119,17 @@
       <updated>1635862415314</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myShow1" value="true" />
