@@ -21,7 +21,7 @@ public class UserService {
     }
 
     @Autowired
-    private final UserRepository userRepository;
+    private UserRepository userRepository;
 
 
     public ResponseEntity<List<User>> getAllUsers() {
